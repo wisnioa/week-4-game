@@ -1,0 +1,37 @@
+
+.page-header h1{
+	margin-left: 170px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	font-weight: bold;
+	text-shadow: #DEB887 0px 0px 9px;
+
+}
+
+#intro-list {
+	margin-top: 30px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	text-shadow: #DEB887 0px 0px 9px;
+}
+
+
+#shell-imgs {
+	margin-top: 20px;
+}
+
+#currentNumber, #winBox, #lossBox, #guessNumber{
+	height: 150px;
+	width: 200px;
+	background: #FF7F50;
+	margin-top: 50px;
+}
+
+#currentNumber h3, #winBox h3, #lossBox h3, #guessNumber h3 {
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size:27px;
+	font-weight: bold;
+	color:black;
+	text-shadow: #DEB887 0px 0px 9px;
+}
